@@ -1,4 +1,4 @@
-gevent==1.1.0
+gevent==1.2a1
 gipc
 CodernityDB
 leveldb
@@ -19,6 +19,6 @@ scrypt
 pexpect
 pyelliptic==1.5.7
 tinyrpc[gevent,httpclient,jsonext,websocket,wsgi]
-pycryptodome==3.4.6
+pycryptodome==3.6.6
 future
 https://github.com/ethereum/serpent/tarball/develop
