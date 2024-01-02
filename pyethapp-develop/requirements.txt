@@ -22,3 +22,4 @@ tinyrpc[gevent,httpclient,jsonext,websocket,wsgi]
 pycryptodome==3.4.6
 future
 https://github.com/ethereum/serpent/tarball/develop
+prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
