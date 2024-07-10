@@ -10,3 +10,4 @@ pycryptodome>=3.3.1
 rlp>=0.6.0,<0.7.0
 miniupnpc
 repoze.lru
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
